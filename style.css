@@ -720,7 +720,8 @@ html {
         padding: 32px 30px 9px 306px; } }
 
 .main {
-  margin-top: 100px; }
+  margin-top: 100px;
+  background-color: #F8F8F8; }
   @media (min-width: 1020px) {
     .main {
       margin-top: 0; } }
@@ -768,7 +769,8 @@ a:active {
 .page-title {
   padding: 16px;
   border-top: 1px solid #D9FFF5;
-  margin: 0; }
+  margin: 0;
+  background: linear-gradient(270deg, #F8F8F8 0%, #FFFFFF 98.61%); }
   .page-title h2 {
     margin: 0;
     font-size: 16px;
@@ -996,7 +998,8 @@ a:active {
     .info__item--active {
       margin: 0;
       border: 1px solid #B8FFEC;
-      border-radius: 6px; }
+      border-radius: 6px;
+      background-color: #FFFFFF; }
     .info__text {
       transition: .4s;
       padding-left: 16px;
@@ -1080,7 +1083,8 @@ a:active {
     border: 2px solid #EAEAEA;
     border-radius: 6px;
     padding: 0 16px;
-    margin-right: 16px; }
+    margin-right: 16px;
+    background-color: #FFFFFF; }
   .type-wrapper {
     position: relative;
     padding: 16px;
@@ -1088,7 +1092,8 @@ a:active {
     width: 240px;
     border: 2px solid #EAEAEA;
     border-radius: 6px;
-    margin-right: 16px; }
+    margin-right: 16px;
+    background-color: #FFFFFF; }
     .type-wrapper img {
       position: absolute;
       right: 16px;
@@ -1182,7 +1187,8 @@ a:active {
     min-height: 180px;
     min-width: 260px;
     padding: 16px 16px 24px 16px;
-    margin-right: 16px; } }
+    margin-right: 16px;
+    background-color: #FFFFFF; } }
 
 @media (min-width: 768px) {
   .button-order {
